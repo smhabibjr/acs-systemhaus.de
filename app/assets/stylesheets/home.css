@@ -52,10 +52,6 @@ header .overlay {
     }
 }
 
-
-body{margin-top:20px;
-    background:#eee;
-}
 .service-container {
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
